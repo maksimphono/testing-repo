@@ -1,0 +1,1 @@
+1) Make tasks not open when button Complete/Edit/Delete is pressed
